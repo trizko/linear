@@ -1,3 +1,3 @@
 # linear
 
-Package linear is a library of linear algebra functions
+Package linear contains functions that perform linear algebra operations

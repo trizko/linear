@@ -2,8 +2,8 @@
 // Use of this source code is governed by a MIT-style
 // license that can be found in the LICENSE file.
 
-// Package linear contains tools to implement machine
-// learning in a Go environment.
+// Package linear contains functions that perform
+// linear algebra operations
 package linear
 
 import "errors"
